@@ -1,1 +1,2 @@
 Word Ladder (BFS) - https://leetcode.com/problems/word-ladder/  
+Detect Cycle in directed Graph (use 3 state array. dfs ki shuruaat mein state 1 and last mein state 2) - https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
