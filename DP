@@ -9,6 +9,8 @@ Distinct Subsequences (DP on strings) - https://leetcode.com/problems/distinct-s
 Cherry Pickup (DP on Matrix) - https://leetcode.com/problems/cherry-pickup/description/
 Word Combinations (DP on Tries) - https://cses.fi/problemset/task/1731
 Distinct Subsequence (knapsack dp) - https://leetcode.com/problems/distinct-subsequences/description/
+word break (dp on tries) - https://leetcode.com/problems/word-break/description/
+word break 2 (dp on tries) - https://leetcode.com/problems/word-break-ii/description/
 
 
 
