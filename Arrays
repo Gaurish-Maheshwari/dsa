@@ -1,2 +1,3 @@
 Minimum Window Substring (sliding window + hashmap) - https://leetcode.com/problems/minimum-window-substring/description/
 Minimum Window Subsequence (two pointers + back moving pointer) - https://www.geeksforgeeks.org/problems/minimum-window-subsequence/1
+lexicographically smallest string greater than target (map, bruteforce, backtrack) - https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/description/
